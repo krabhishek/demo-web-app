@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html:  D:\\devel\\ff\\poc\\demo-web-app\\web\\favicon.png D:\\devel\\ff\\poc\\demo-web-app\\web\\icons\\Icon-192.png D:\\devel\\ff\\poc\\demo-web-app\\web\\icons\\Icon-512.png D:\\devel\\ff\\poc\\demo-web-app\\web\\index.html
